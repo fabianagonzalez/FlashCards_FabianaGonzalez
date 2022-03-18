@@ -24,6 +24,16 @@
         android:visibility="invisible"
         />
 
+    <ImageView
+        android:id="@+id/flashcards_add_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
+
+
 
 
 </RelativeLayout>
