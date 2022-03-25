@@ -2,7 +2,7 @@
 ## Lab 3
 
 ### App Description
-`TODO://` This App is created as a fun way of studying, where people can use it as a digital flashcard to improve their knowledge. Here you can look every question with the answer that you already inputed before. 
+`TODO://` This App is created as a fun way of studying, where people can use it as a digital flashcard to improve their knowledge. Here, you can look every question with the answer that you inputed before. 
 
 ### App Walk-though
 
