@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<img src="https://imgur.com/LZFZ3C3.gif" width=200><br>
+<img src="https://media0.giphy.com/media/QkR4JrsrZ83SKrglX6/giphy.gif?cid=790b76116489afce12ff9ae91da228683b25978fa7183bed&rid=giphy.gif&ct=g" width=200><br>
 )
 
 ## Required
