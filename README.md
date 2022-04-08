@@ -1,4 +1,27 @@
 # FlashCards_FabianaGonzalez
+
+## Lab 4
+
+### App Description
+`TODO://` This App is created as a fun way of studying, where people can use it as a digital flashcard to improve their knowledge. Here, you can look every question with the answer that you inputed before. I include some animations that you can see while using the app. 
+
+### App Walk-though
+`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
+<img src="https://imgur.com/X8k464w.gif" width=200><br>
+
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
 ## Lab 3
 
 ### App Description
